@@ -18,16 +18,16 @@ metode Rapid Application Development (RAD).
 ![Halaman Home](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshoot/Home.png)
 
 ### Halaman Login
-![Halaman Login](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Login.png)
+![Halaman Login](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshoot/Login.png)
 
 ### Menu Informasi
-![Menu Informasi](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/menu.png)
+![Menu Informasi](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshoot/menu.png)
 
 ### Galeri Kegiatan
-![Galeri Kegiatan](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/galeri.png)
+![Galeri Kegiatan](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshoot/galeri.png)
 
 ### Peta Lokasi Kelurahan
-![Peta Lokasi](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/peta.png)
+![Peta Lokasi](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshoot/peta.png)
 
 ## 👩‍💻 Pengembang
 **Devi Pratiwi**  
