@@ -1,33 +1,29 @@
 # Website Kelurahan Pondok Benda Pamulang
 
 Website ini dibuat sebagai media informasi Kelurahan Pondok Benda Pamulang
-menggunakan metode Rapid Application Development (RAD).
+untuk menyampaikan informasi pelayanan, kegiatan, dan profil kelurahan
+kepada masyarakat secara online.
 
-## 📌 Fitur Website
+## Fitur Website
 - Halaman Home
 - Login Admin
-- Menu Informasi
+- Menu Informasi Kelurahan
 - Galeri Kegiatan
 - Peta Lokasi Kelurahan
 
-## 📸 Tampilan Website
+## Screenshot Website
 
 ### Halaman Home
-![Home](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Home.png)
+![Halaman Home](Screenshot/Home.png)
 
 ### Halaman Login
-![Login](Screenshot/Login.png)
+![Halaman Login](Screenshot/Login.png)
 
-### Menu
-![Menu](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/menu.png)
+### Menu Informasi
+![Menu Informasi](Screenshot/menu.png)
 
-### Galeri
-![Galeri](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/galeri.png)
+### Galeri Kegiatan
+![Galeri Kegiatan](Screenshot/galeri.png)
 
-### Peta Lokasi
-![Peta](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/peta.png)
-
-## 👩‍💻 Pengembang
-**Devi Pratiwi**  
-Program Studi Teknik Informatika  
-Universitas Pamulang
+### Peta Lokasi Kelurahan
+![Peta Lokasi](Screenshot/peta.png)
