@@ -15,7 +15,7 @@ metode Rapid Application Development (RAD).
 ## 📸 Screenshot Website
 
 ### Halaman Home
-![Halaman Home](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Home.png)
+![Halaman Home](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screnshot/Home.png)
 
 ### Halaman Login
 ![Halaman Login](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Login.png)
