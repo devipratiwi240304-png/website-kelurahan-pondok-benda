@@ -31,6 +31,7 @@ metode Rapid Application Development (RAD).
 
 ## 👩‍💻 Pengembang
 **Devi Pratiwi**  
-221011401950
+**221011401950**
+
 Program Studi Teknik Informatika  
 Universitas Pamulang
