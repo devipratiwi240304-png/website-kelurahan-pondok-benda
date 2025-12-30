@@ -16,7 +16,7 @@ menggunakan metode Rapid Application Development (RAD).
 ![Home](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Home.png)
 
 ### Halaman Login
-![Login](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/Login.png)
+![Login](Screenshot/Login.png)
 
 ### Menu
 ![Menu](https://raw.githubusercontent.com/devipratiwi240304-png/website-kelurahan-pondok-benda/main/Screenshot/menu.png)
